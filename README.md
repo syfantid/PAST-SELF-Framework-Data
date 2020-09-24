@@ -67,7 +67,7 @@ For the included papers, we extract certain features if applicable as follows:
     - Control PA: The PA mean change of the control group
     - Intervention PA: The PA mean change of the intervention group
 
-## PSD TEchniques Mapping
+## PSD Techniques Mapping
 This mapping is utilized by multiple columns in the file.  
 
 technique,name,category  
@@ -103,9 +103,6 @@ technique,name,category
 30: Punishment,Other  
 31: Variability,Other  
 32: General Information,Other  
-
-
-
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
