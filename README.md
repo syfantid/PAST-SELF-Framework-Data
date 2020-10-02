@@ -104,6 +104,7 @@ technique,name,category
 31: Variability,Other  
 32: General Information,Other  
 
+[![DOI](https://zenodo.org/badge/295764967.svg)](https://zenodo.org/badge/latestdoi/295764967)
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
