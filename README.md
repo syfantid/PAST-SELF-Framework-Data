@@ -1,5 +1,5 @@
 # PAST-SELF-Framework-Data
-The data file for the PAST SELF Framework for the design and evaluation of Self-tracking Technology (ST) for Health Behavior Change (HBC) and User Engagement (UE). Edits of existing fields are not supported on the file. However, additions based on new, published literure are highly encouraged.
+The data file for the PAST SELF Framework for the design and evaluation of Self-tracking Technology (ST) for Health Behavior Change (HBC) and User Engagement (UE). Edits of existing fields are not supported on the file. However, additions based on new, published literature are highly encouraged.
 
 Cite as:   
 Sofia Yfantidou. (2020, October 2). syfantid/PAST-SELF-Framework-Data: Paper Release (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4063377
